@@ -45,7 +45,8 @@ git push origin upm --tags
 }
 ```
 
-或者使用第三方库的UPM：https://github.com/mob-sakai/UpmGitExtension，在Package Manager添加git url：https://github.com/mob-sakai/UpmGitExtension.git，这样就可以可视化添加UPM了。
+或者使用第三方库的UPM：https://github.com/mob-sakai/UpmGitExtension
+在Package Manager添加git url：https://github.com/mob-sakai/UpmGitExtension.git，这样就可以可视化添加UPM了。
 
 ##### 四、参考
 
