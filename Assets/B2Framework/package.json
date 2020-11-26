@@ -1,0 +1,20 @@
+{
+  "name": "com.venbb.b2framework",
+  "displayName": "B2 Framework",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "description": "B2Framework is a Unity Framework.",
+  "license": "MIT",
+  "keywords": [
+    "B2",
+    "Framework",
+    "Unity",
+    "XLua",
+    "Lua"
+  ],
+  "author": {
+    "name": "Venbb",
+    "email": "",
+    "url": "https://github.com/Venbb/B2Framework"
+  }
+}
