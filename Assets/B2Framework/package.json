@@ -1,7 +1,7 @@
 {
   "name": "com.venbb.b2framework",
   "displayName": "B2 Framework",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2019.4",
   "description": "B2Framework is a Unity Framework.",
   "license": "MIT",
