@@ -1,0 +1,17 @@
+{
+    "name": "B2Framework.Editor",
+    "references": [
+        "GUID:b5b6a24386c3dd74b8b4672aac2fd32d"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
