@@ -1,8 +1,8 @@
 {
-    "name": "B2Framwwork.Runtime",
+    "name": "B2Framwork.Runtime",
     "references": [
-        "GUID:b0f9410311cb0eb44943955a317cc84b",
-        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+        "B2Framework.Libraries",
+        "Unity.TextMeshPro"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
